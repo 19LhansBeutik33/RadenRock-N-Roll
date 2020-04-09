@@ -7,13 +7,13 @@ def cekip():
  print(f'[!] IP kamu : {ip}')
  
 def iOsif():
- print(f'[!] Menginstall tools osif..')
+ print(f'[!] Menginstall tools RadenRock-N-Roll..')
  os.system('pkg update upgrade')
  os.system('pkg install git python2')
- os.system('git clone https://github.com/19LhansBeutik33/OSIF'​)
- os.system('cd OSIF')
+ os.system('git clone https://github.com/19LhansBeutik33/RadenRock-N-Roll')
+ os.system('cd RadenRock-N-Roll')
  os.system('pip2 install -r requirements.txt')
- os.system('python2 osif.py')
+ os.system('python2 RadenRock-N-Roll.py')
  
 print('''-=[ W3LC0M3 TO MyTools RED HAT ]=-
 print('''-=[★github.com/19hansBeutik33★]=-
